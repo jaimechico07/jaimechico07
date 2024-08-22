@@ -43,8 +43,6 @@ Hi, I'm Jaime Chico Loayza!
 </p>
 
 
-
-<hr>
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
