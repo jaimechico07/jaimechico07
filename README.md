@@ -8,7 +8,8 @@ Hi, I'm Jaime Chico Loayza!
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
-<img align="left" src="https://github.com/user-attachments/assets/ab564171-a1fc-4f1d-b80e-da1e9fcd8d23" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="400" />
+
+<img align="left" src="https://github.com/user-attachments/assets/64cc0e39-9efb-480b-adf4-4d0da94b20e3" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 <hr>
 
 ```
