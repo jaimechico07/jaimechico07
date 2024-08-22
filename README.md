@@ -12,8 +12,6 @@ Hi, I'm Jaime Chico Loayza!
 <img align="left" src="https://github.com/user-attachments/assets/64cc0e39-9efb-480b-adf4-4d0da94b20e3" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 <hr>
 
-
-
 ```
 -------------------------
 💻 Soy un Desarrollador de Software Junior con enfoque en Full Stack.
@@ -26,11 +24,9 @@ Hi, I'm Jaime Chico Loayza!
 🚩 Interesado en el desarrollo de aplicaciones web y móviles.
 💖 Fascinado por resolver problemas complejos con soluciones sencillas.
 🎵 Me encanta escuchar música lo-fi y jazz mientras programo.
+-------------------------
 ```
 <hr>
-
-
-
 
 
 <!--h1 without bottom border-->
@@ -47,6 +43,8 @@ Hi, I'm Jaime Chico Loayza!
 </p>
 
 
+
+<hr>
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
