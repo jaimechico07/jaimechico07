@@ -8,23 +8,21 @@ Hi, I'm Jaime Chico Loayza!
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
-<img align="left" src="https://github.com/user-attachments/assets/ab564171-a1fc-4f1d-b80e-da1e9fcd8d23" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<img align="left" src="https://github.com/user-attachments/assets/ab564171-a1fc-4f1d-b80e-da1e9fcd8d23" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="400" />
 <hr>
 
 
-
-```
-I-am-vishalmaurya@github
 -------------------------
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University of Mumbai at India
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
-💖 In a complicated relationship with Neural Networks
-🎵 Love metal, lofi, jazz and soft music
+💻 Soy un Desarrollador de Software Junior con enfoque en Full Stack.
+👨🏽‍💻 Actualmente, estoy trabajando en proyectos de desarrollo web y aplicaciones.
+📚 Tengo un título en Desarrollo de Software en ISIL.
+📝 Me interesa aprender sobre Inteligencia Artificial y Ciencia de Datos.
+🔭 Explorando el desarrollo de aplicaciones y prácticas de codificación eficiente.
+🌱 Aprendiendo sobre frameworks y herramientas modernas como Angular, React y Node.js.
+🌟 Principales lenguajes: JavaScript, html, css, TypeScript.
+🚩 Interesado en el desarrollo de aplicaciones web y móviles.
+💖 Fascinado por resolver problemas complejos con soluciones sencillas.
+🎵 Me encanta escuchar música lo-fi y jazz mientras programo.
 ```
 <hr>
 
