@@ -49,7 +49,7 @@ Hi, I'm Jaime Chico Loayza!
     <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-white?style=for-the-badge&logo=angular&logoColor=red"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
-    <a href="#"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-563D7C?style=for-the-badge&logo=tailwind&logoColor=green"></a>
+    <a href="#"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwindcss-#38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=green"></a>
 
 </p>
 
