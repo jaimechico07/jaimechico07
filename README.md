@@ -51,7 +51,7 @@ Hi, I'm Jaime Chico Loayza!
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Scss" src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white"></a>
     <a href="#"><img alt="Tailwindcss" src="https://img.shields.io/badge/Tailwindcss-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8"></a>
-    <a href="#"><img alt="Flowbite" src="https://img.shields.io/badge/Flowbite-0F172A?style=for-the-badge&logo=flowbite&logoColor=38BDF8"></a>
+    <a href="#"><img alt="Flowbite" src="https://img.shields.io/badge/Flowbite-blue?style=for-the-badge&logo=flowbite&logoColor=38BDF8"></a>
     
 
 
