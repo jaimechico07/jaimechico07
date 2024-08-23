@@ -94,7 +94,7 @@ Hi, I'm Jaime Chico Loayza!
 <p align="center">
 <a href="https://www.linkedin.com/in/jaime-chico-93b7a2170/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 <a href="https://www.instagram.com/jaime_cl_07/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="https://wa.me/+51970730986/?text=Hola%20, Me encantaría hablar sobre cómo podemos colaborar. ¿Podemos agendar una reunión?%20" target="blank"><img align="center" src="https://github.com/user-attachments/assets/8a13d2b3-c22c-4b3c-bcf0-f9bf1096a8ca" alt="hashnode" height="50" width="50" /></a>
+<a href="https://wa.me/+51970730986/?text=Hola%20, Me encantaría hablar sobre cómo podemos colaborar. ¿Podemos agendar una reunión?%20" target="blank"><img align="center" src="https://github.com/user-attachments/assets/9b34f5bd-02ae-4589-a016-57f65246c746" alt="hashnode" height="50" width="50" /></a>
 
 
 </p>
