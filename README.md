@@ -27,7 +27,7 @@ Hi, I'm Jaime Chico Loayza!
 -------------------------
 ```
 <hr>
-
+<br/>
 
 ## 🛠️ My Favorite Tools
 
