@@ -58,9 +58,9 @@ Hi, I'm Jaime Chico Loayza!
 
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7"></a>
+    <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-000000?logo=netlify&logoColor=00C7B7"></a>
     <a href="#"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
-    <a href="#"><img alt="Aws" src ="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FFFFFF"></a>
+    <a href="#"><img alt="Aws" src ="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=FFFFFF"></a>
 </p>
 
 ### 💻 Software and Tools
